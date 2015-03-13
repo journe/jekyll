@@ -5,12 +5,12 @@
     <description>这是描述</description>
     <link>http://journe.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Mar 2015 14:40:42 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2015 14:40:42 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2015 13:35:03 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2015 13:35:03 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Project 1</title>
+        <title>Blogging Like a Hacker</title>
         <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0800</pubDate>
         <link>http://journe.github.io/web%20development/2014/07/18/project-1/</link>
