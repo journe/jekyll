@@ -2,6 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
+title: Blogging Like a Hacker
+jour: 1.gif
 img: cabin.png
 alt: image-alt
 project-date: April 2014
@@ -10,3 +12,6 @@ category: Web Development
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
+… 从下面的截图可以看到：
+
+![有帮助的截图](img/new/Ashampoo_Snap_2015.02.15_16h56m27s_010_.png)
